@@ -1,4 +1,4 @@
-File: initials.py
+# File: initials.py
 # Description: Print out my initials program.
 # Assignment Number: 2
 #
